@@ -18,5 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deatrax&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Deatrax" /> </p>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deatrax&theme=dark&border_radius=8&fire=FF6E96)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deatrax&layout=compact&theme=dark&hide_border=false)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://streak-stats.demolab.com?user=deatrax&theme=dark&border_radius=8&fire=FF6E96" alt="GitHub Streak" style="height: 165px; "/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deatrax&layout=compact&theme=dark&hide_border=false" alt="Top Languages" style="height: 165px;"/>
+</div>
