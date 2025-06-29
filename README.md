@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **New Ideas involving Native apps on different platforms, Web tech & Cybersecurity**
 - 🌱 I’m currently learning **Cybersecurity & System Development**
-- 🤝 I’m looking to collaborate on **Web Development Projects** as well as new **innovative ideas** like new **platforms and software**
+- 🤝 I’m looking to collaborate on **Web Development Projects** as well as new **innovative ideas** like new **platforms and native software**
 - 👨‍💻 All of my projects are available [HERE](#)
 - 📫 Reach me at **sadmanshaharierm@gmail.com**
 - 📝 My blogs: [Hashnode](https://deatrax.hashnode.dev)
