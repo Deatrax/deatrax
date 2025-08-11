@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deatrax</h1>
-<h3 align="center">Native application & Web Developer, DevOps and Cybersecurity Enthusiast</h3>
+<h3 align="center">Native & Web application, Game, AI-ML and Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m interested in **New Ideas involving Native apps on different platforms, Web tech & Cybersecurity**
 - 🌱 I’m currently learning **Cybersecurity & System Development**
