@@ -11,7 +11,7 @@
   <h3>Github Trophies</h3>
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deatrax&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="Deatrax" />
+    <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=deatrax&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="Deatrax" />
   </a>
 </p>
 
@@ -19,6 +19,8 @@
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://streak-stats.demolab.com?user=deatrax&theme=dark&border_radius=8&fire=FF6E96" alt="GitHub Streak" style="height: 165px; "/>
+  <img src="https://streak-stats.demolab.com?user=Deatrax&theme=dark&border_radius=8&card_height=165" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deatrax&layout=compact&theme=dark&hide_border=false" alt="Top Languages" style="height: 165px;"/>
 </div>
+
+
