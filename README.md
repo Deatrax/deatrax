@@ -8,19 +8,25 @@
 - 📫 Reach me at **sadmanshaharierm@gmail.com**
 - 📝 My blogs: [Hashnode](https://deatrax.hashnode.dev)
 
-  <h3>Github Trophies</h3>
+## Github Trophies
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=deatrax&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="Deatrax" />
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deatrax&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Deatrax" /> </p>
+## GitHub Stats
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://streak-stats.demolab.com?user=Deatrax&theme=dark&border_radius=8&card_height=165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deatrax&layout=compact&theme=dark&hide_border=false" alt="Top Languages" style="height: 165px;"/>
-</div>
+<p align="center" width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deatrax&show_icons=true&layout=compact&hide_progress=true&theme=tokyonight" alt="deatrax" width="44%">
+</p>
+<p>
+  <a href="https://github.com/deatrax">
+    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=deatrax&theme=tokyonight">
+  </a>
+</p>
+
+[![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deatrax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)>
 
 
