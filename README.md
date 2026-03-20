@@ -8,6 +8,8 @@
 - 📫 Reach me at **sadmanshaharierm@gmail.com**
 - 📝 My blogs: [Hashnode](https://deatrax.hashnode.dev)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deatrax&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Deatrax" /> </p>
+
 ## Github Trophies
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
