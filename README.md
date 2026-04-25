@@ -72,6 +72,6 @@
   </a>
 </p>
 
-[![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deatrax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)>
+[![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deatrax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
