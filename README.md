@@ -81,7 +81,7 @@
 
 
 <p align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deatrax&show_icons=true&layout=compact&hide_progress=true&theme=tokyonight" alt="deatrax" width="44%">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=deatrax&show_icons=true&layout=compact&hide_progress=true&theme=tokyonight" alt="deatrax" width="44%">
 </p>
 <p>
   <a href="https://github.com/deatrax">
@@ -89,6 +89,6 @@
   </a>
 </p>
 
-[![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deatrax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Deatrax's GitHub Activity Graph](https://github-readme-activity-graph-lake-five.vercel.app/graph?username=deatrax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
