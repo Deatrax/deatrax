@@ -13,7 +13,7 @@
 ## Github Trophies
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=deatrax&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="Deatrax" />
+    <img src="https://github-profile-trophy-blush-xi.vercel.app/?username=deatrax&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="Deatrax" />
   </a>
 </p>
 
