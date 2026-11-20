@@ -16,76 +16,66 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/tashobi02/Gale-Surface-Ops">🚀 Gale Surface Ops</a></h3>
-      <sub><i>Space Tech · Real-time Systems</i> · <b>Product lead</b></sub>
-      <p>Team CheesySpace's entry to the <b>NASA Space Apps Challenge 2026</b>: a habitat-local operations system for a Mars exploration zone at Gale crater. A planner builds a suit-safe EVA on real HiRISE terrain, a Hab Core server runs the mission clock for simulated astronauts on tablets and HUDs, and the real 2024 solar particle event is replayed so the habitat can warn the crew before Earth could. It works fully offline. <a href="https://gale-surface-ops.vercel.app/#/replay">Live replay</a></p>
-      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>OpenLayers</code> <code>Fastify</code> <code>WebSockets</code> <code>Python</code></p>
+      <sub><b>Product lead</b> · NASA Space Apps 2026 · <a href="https://gale-surface-ops.vercel.app/#/replay">live replay</a></sub>
+      <p>Offline Mars habitat ops system: plan a suit-safe EVA on real terrain and replay the 2024 solar storm.</p>
+      <sub><code>TypeScript</code> <code>React</code> <code>Python</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tashobi02/Fera-AI">🧸 Fera AI (ফেরা)</a></h3>
-      <sub><i>AI for Social Good</i> · <b>Team lead</b></sub>
-      <p>A Bangla-first case-coordination prototype for missing and found children in Bangladesh, built for <b>Hack for Humanity Bangladesh 2026</b>. A parent reports by voice or text and gets a structured draft and a no-photo poster, staff log found children, a matcher ranks likely pairs, and a verified officer makes every final decision. Synthetic data only.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Hugging Face Transformers</code> <code>Tailwind CSS</code></p>
+      <h3><a href="https://github.com/tashobi02/Fera-AI">🧸 Fera AI</a></h3>
+      <sub><b>Team lead</b> · Hack for Humanity 2026</sub>
+      <p>Bangla-first tool for coordinating missing-child cases. AI ranks matches, a human always decides.</p>
+      <sub><code>Next.js</code> <code>PostgreSQL</code> <code>pgvector</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/ProjectOdyssey">🧭 ProjectOdyssey</a></h3>
-      <sub><i>Web · AI · Gamification</i></sub>
-      <p>A smart travel companion that generates personalized weekly itineraries with Google Gemini, lets friends plan trips together, and rewards real visits with geofenced check-ins and achievements.</p>
-      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Express</code> <code>Supabase</code> <code>Gemini API</code></p>
+      <sub>Web · AI</sub>
+      <p>Travel companion with weekly Gemini itineraries, social trip planning and gamified check-ins.</p>
+      <sub><code>Next.js</code> <code>Express</code> <code>Gemini</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/HoneyMesh">🍯 HoneyMesh</a></h3>
-      <sub><i>Cybersecurity · Distributed Systems</i></sub>
-      <p>A cyber-deception and incident-response platform. Decoy endpoints capture attacker activity, a rule-based engine correlates and scores threats in real time, and an analyst dashboard turns them into incidents with live WebSocket alerts.</p>
-      <p><code>Spring Boot</code> <code>Spring Cloud Gateway</code> <code>RabbitMQ</code> <code>Redis</code> <code>PostgreSQL</code> <code>React</code> <code>Docker Compose</code></p>
+      <sub>Cybersecurity · Distributed systems</sub>
+      <p>Honeypot platform: decoys catch attackers, a rule engine scores threats, analysts get live alerts.</p>
+      <sub><code>Spring Boot</code> <code>RabbitMQ</code> <code>React</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/ThyroAI">🧬 ThyroAI</a></h3>
-      <sub><i>AI / ML Research</i></sub>
-      <p>How much of a thyroid-disease classifier's accuracy is real biochemistry, and how much is circular treatment-history leakage? Seven models across four feature tiers with repeated CV, plus k-means, PCA/t-SNE and SHAP. Best macro-F1 rises from ≈0.75 on lab values alone to ≈0.88 once treatment flags are added.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>pandas</code> <code>SHAP</code> <code>Jupyter</code></p>
+      <sub>AI / ML research</sub>
+      <p>How much of a thyroid classifier's accuracy is real biochemistry? Macro-F1 falls from ≈0.88 to ≈0.75 without treatment flags.</p>
+      <sub><code>Python</code> <code>scikit-learn</code> <code>SHAP</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/PeerLoop">🔁 PeerLoop</a></h3>
-      <sub><i>Mobile · Web · Full-stack</i></sub>
-      <p>A request-resolution layer for university course communities. A student asks once; PeerLoop answers from knowledge the hub already holds, or routes the request to the smallest group who can resolve it and escalates on a configurable clock. Routing and escalation rules live in one shared pure-TypeScript core used by both client and API.</p>
-      <p><code>Expo</code> <code>React Native</code> <code>Next.js</code> <code>Drizzle</code> <code>PostgreSQL</code> <code>Vercel</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Deatrax/codenheimer">☢️ Codenheimer</a></h3>
-      <sub><i>Native Desktop</i></sub>
-      <p>A code-snippet manager for students and competitive programmers: syntax highlighting, color-coded tags, fast search, OpenSSL-encrypted storage and system-tray integration. Ships as prebuilt installers through public-beta releases.</p>
-      <p><code>C++</code> <code>Qt 6</code> <code>QSS</code> <code>OpenSSL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Deatrax/SoulSteps1">👣 SoulSteps</a></h3>
-      <sub><i>Game Development</i></sub>
-      <p>A 2D story-driven adventure where you win through dialogue, empathy and evidence instead of combat. Features a data-driven story and quest system, branching ethical choices, a trigger and cutscene system, and layered character customization.</p>
-      <p><code>Java</code> <code>LibGDX</code></p>
+      <sub>Mobile · Full-stack</sub>
+      <p>Course-community help desk: answers from existing knowledge or routes to the right few people, then escalates.</p>
+      <sub><code>Expo</code> <code>Next.js</code> <code>PostgreSQL</code></sub>
     </td>
   </tr>
 </table>
 
-<sub>Gale Surface Ops and Fera AI are hosted on a teammate's account (<a href="https://github.com/tashobi02">@tashobi02</a>) because we built them together as a team.</sub>
+<sub>Gale Surface Ops and Fera AI are team projects hosted on a teammate's account (<a href="https://github.com/tashobi02">@tashobi02</a>).</sub>
+
+### More projects
 
 <details>
-<summary><b>More projects</b></summary>
+<summary>Show all 9</summary>
 <br>
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ClaritySync](https://github.com/Deatrax/ClaritySync) ([live demo](https://clarity-sync.vercel.app)) | ERP system covering inventory, point-of-sale, warranties, payroll and role-based access | Next.js, Express, PostgreSQL (Supabase) |
-| [MatriSense](https://github.com/Prince02031/MatriSense) ([live](https://matri-sense.vercel.app)) | SciBlitz AI Challenge 2026 team project: AI-native maternal-health triage for rural Bangladesh, with Bangla voice intake, document OCR, deterministic risk rules and RAG guidance. I contributed the document-analysis pipeline, clinical-data dashboards and mobile layouts | Next.js, Node.js, MongoDB Atlas, Gemini |
-| [AgriSense AI](https://github.com/Deatrax/Anti-b2b-SaaS-Club_AgriSense) | Hackathon team project: an agent that builds a costed, weather-aware, source-cited season plan for farmers | Next.js, Express, Vercel AI SDK, RAG (pgvector) |
-| [File Safe](https://github.com/Deatrax/File-Safe) | File, folder and text encryption using AES-256-GCM with PBKDF2 key derivation ([macOS version](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
-| [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | Gamified study tracker with a Pomodoro timer, achievements and "apology letters" for missed deadlines | React, Express, MongoDB |
-| [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | Benchmark of classical ML against LLMs from three model families on mental-health text classification | Python, scikit-learn, Jupyter |
-| [MCServCheck](https://github.com/Deatrax/MCServCheck) ([live](https://mc-serv-check.vercel.app)) | Discord bot and web dashboard that monitors Minecraft servers and posts online/offline alerts | Node.js, Vercel, MongoDB Atlas |
+| [Codenheimer](https://github.com/Deatrax/codenheimer) | Snippet manager for competitive programmers, with encrypted storage and installers | C++, Qt 6 |
+| [SoulSteps](https://github.com/Deatrax/SoulSteps1) | 2D story-driven adventure won through dialogue instead of combat | Java, LibGDX |
+| [ClaritySync](https://github.com/Deatrax/ClaritySync) ([demo](https://clarity-sync.vercel.app)) | ERP covering inventory, point-of-sale, warranties and payroll | Next.js, Express, PostgreSQL |
+| [MatriSense](https://github.com/Prince02031/MatriSense) ([live](https://matri-sense.vercel.app)) | Bangla maternal-health triage (SciBlitz 2026). I built document analysis and clinical dashboards | Next.js, MongoDB, Gemini |
+| [AgriSense AI](https://github.com/Deatrax/Anti-b2b-SaaS-Club_AgriSense) | Hackathon agent that builds a costed, weather-aware season plan for farmers | Next.js, Express, RAG |
+| [File Safe](https://github.com/Deatrax/File-Safe) | AES-256-GCM file, folder and text encryption ([macOS](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
+| [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | Gamified study tracker with a Pomodoro timer and "apology letters" | React, Express, MongoDB |
+| [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | Classical ML vs LLMs for mental-health text classification | Python, scikit-learn |
+| [MCServCheck](https://github.com/Deatrax/MCServCheck) ([live](https://mc-serv-check.vercel.app)) | Discord bot and dashboard for Minecraft server status alerts | Node.js, Vercel, MongoDB |
 
 </details>
 
