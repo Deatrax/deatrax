@@ -30,13 +30,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/ProjectOdyssey">🧭 ProjectOdyssey</a></h3>
-      <sub>Web · AI</sub>
+      <sub><b>Project lead</b> · Web · AI</sub>
       <p>Travel companion with weekly Gemini itineraries, social trip planning and gamified check-ins.</p>
       <sub><code>Next.js</code> <code>Express</code> <code>Gemini</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/HoneyMesh">🍯 HoneyMesh</a></h3>
-      <sub>Cybersecurity · Distributed systems</sub>
+      <sub><b>Project lead</b> · Cybersecurity · Distributed systems</sub>
       <p>Honeypot platform: decoys catch attackers, a rule engine scores threats, analysts get live alerts.</p>
       <sub><code>Spring Boot</code> <code>RabbitMQ</code> <code>React</code></sub>
     </td>
@@ -44,13 +44,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/ThyroAI">🧬 ThyroAI</a></h3>
-      <sub>AI / ML research</sub>
+      <sub><b>Project lead</b> · AI / ML research</sub>
       <p>How much of a thyroid classifier's accuracy is real biochemistry? Macro-F1 falls from ≈0.88 to ≈0.75 without treatment flags.</p>
       <sub><code>Python</code> <code>scikit-learn</code> <code>SHAP</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Deatrax/PeerLoop">🔁 PeerLoop</a></h3>
-      <sub>Mobile · Full-stack</sub>
+      <sub><b>Project lead</b> · Mobile · Full-stack</sub>
       <p>Course-community help desk: answers from existing knowledge or routes to the right few people, then escalates.</p>
       <sub><code>Expo</code> <code>Next.js</code> <code>PostgreSQL</code></sub>
     </td>
@@ -67,13 +67,13 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Codenheimer](https://github.com/Deatrax/codenheimer) | Snippet manager for competitive programmers, with encrypted storage and installers | C++, Qt 6 |
+| [Codenheimer](https://github.com/Deatrax/codenheimer) | **Project lead** · Snippet manager for competitive programmers, with encrypted storage and installers | C++, Qt 6 |
 | [SoulSteps](https://github.com/Deatrax/SoulSteps1) | 2D story-driven adventure won through dialogue instead of combat | Java, LibGDX |
-| [ClaritySync](https://github.com/Deatrax/ClaritySync) ([demo](https://clarity-sync.vercel.app)) | ERP covering inventory, point-of-sale, warranties and payroll | Next.js, Express, PostgreSQL |
+| [ClaritySync](https://github.com/Deatrax/ClaritySync) ([demo](https://clarity-sync.vercel.app)) | **Project lead** · ERP covering inventory, point-of-sale, warranties and payroll | Next.js, Express, PostgreSQL |
 | [MatriSense](https://github.com/Prince02031/MatriSense) ([live](https://matri-sense.vercel.app)) | Bangla maternal-health triage (SciBlitz 2026). I built document analysis and clinical dashboards | Next.js, MongoDB, Gemini |
 | [AgriSense AI](https://github.com/Deatrax/Anti-b2b-SaaS-Club_AgriSense) | Hackathon agent that builds a costed, weather-aware season plan for farmers | Next.js, Express, RAG |
 | [File Safe](https://github.com/Deatrax/File-Safe) | AES-256-GCM file, folder and text encryption ([macOS](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
-| [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | Gamified study tracker with a Pomodoro timer and "apology letters" | React, Express, MongoDB |
+| [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | **Project lead** · Gamified study tracker with a Pomodoro timer and "apology letters" | React, Express, MongoDB |
 | [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | Classical ML vs LLMs for mental-health text classification | Python, scikit-learn |
 | [MCServCheck](https://github.com/Deatrax/MCServCheck) ([live](https://mc-serv-check.vercel.app)) | Discord bot and dashboard for Minecraft server status alerts | Node.js, Vercel, MongoDB |
 
