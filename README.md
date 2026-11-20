@@ -59,7 +59,7 @@
 
 <sub>Gale Surface Ops and Fera AI are team projects hosted on a teammate's account (<a href="https://github.com/tashobi02">@tashobi02</a>).</sub>
 
-### More projects
+## More projects
 
 <details>
 <summary>Show all 9</summary>
