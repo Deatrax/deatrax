@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deatrax</h1>
 <h3 align="center">Native & Web application, Game, AI-ML and Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m interested in **New Ideas involving Native apps on different platforms, Web tech & Cybersecurity**
-- 🌱 I’m currently learning **Cybersecurity & System Development**
-- 🤝 I’m looking to collaborate on **Web Development Projects** as well as new **innovative ideas** like new **platforms and native software**
-- 👨‍💻 All of my projects are available [HERE](https://github.com/Deatrax?tab=repositories)
+- 🔭 I’m interested in **New Ideas involving AI, Native apps on different platforms, Web tech & Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity, System Development & applied AI/ML**
+- 🤝 I’m looking to collaborate on **Web & AI Projects** as well as new **innovative ideas** like new **platforms and native software**
+- 👨‍💻 My best work is [below](#featured-projects), and everything else is [HERE](https://github.com/Deatrax?tab=repositories)
 - 📫 Reach me at **sadmanshaharierm@gmail.com**
 - 📝 My blogs: [Hashnode](https://deatrax.hashnode.dev)
 
