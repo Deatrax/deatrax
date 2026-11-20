@@ -72,7 +72,7 @@
 | [ClaritySync](https://github.com/Deatrax/ClaritySync) ([demo](https://clarity-sync.vercel.app)) | **Project lead** · ERP covering inventory, point-of-sale, warranties and payroll | Next.js, Express, PostgreSQL |
 | [MatriSense](https://github.com/Prince02031/MatriSense) ([live](https://matri-sense.vercel.app)) | Bangla maternal-health triage (SciBlitz 2026). I built document analysis and clinical dashboards | Next.js, MongoDB, Gemini |
 | [AgriSense AI](https://github.com/Deatrax/Anti-b2b-SaaS-Club_AgriSense) | Hackathon agent that builds a costed, weather-aware season plan for farmers | Next.js, Express, RAG |
-| [File Safe](https://github.com/Deatrax/File-Safe) | AES-256-GCM file, folder and text encryption ([macOS](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
+| [File Safe](https://github.com/Deatrax/File-Safe) | Personal experiment exploring encryption: AES-256-GCM for files, folders and text ([macOS](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
 | [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | **Project lead** · Gamified study tracker with a Pomodoro timer and "apology letters" | React, Express, MongoDB |
 | [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | **Project lead** · Classical ML vs LLMs for mental-health text classification | Python, scikit-learn |
 | [MCServCheck](https://github.com/Deatrax/MCServCheck) ([live](https://mc-serv-check.vercel.app)) | Discord bot and dashboard for Minecraft server status alerts | Node.js, Vercel, MongoDB |
