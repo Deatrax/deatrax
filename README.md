@@ -68,13 +68,13 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [Codenheimer](https://github.com/Deatrax/codenheimer) | **Project lead** · Snippet manager for competitive programmers, with encrypted storage and installers | C++, Qt 6 |
-| [SoulSteps](https://github.com/Deatrax/SoulSteps1) | 2D story-driven adventure won through dialogue instead of combat | Java, LibGDX |
+| [SoulSteps](https://github.com/Deatrax/SoulSteps1) | **Project lead** · 2D story-driven adventure won through dialogue instead of combat | Java, LibGDX |
 | [ClaritySync](https://github.com/Deatrax/ClaritySync) ([demo](https://clarity-sync.vercel.app)) | **Project lead** · ERP covering inventory, point-of-sale, warranties and payroll | Next.js, Express, PostgreSQL |
 | [MatriSense](https://github.com/Prince02031/MatriSense) ([live](https://matri-sense.vercel.app)) | Bangla maternal-health triage (SciBlitz 2026). I built document analysis and clinical dashboards | Next.js, MongoDB, Gemini |
 | [AgriSense AI](https://github.com/Deatrax/Anti-b2b-SaaS-Club_AgriSense) | Hackathon agent that builds a costed, weather-aware season plan for farmers | Next.js, Express, RAG |
 | [File Safe](https://github.com/Deatrax/File-Safe) | AES-256-GCM file, folder and text encryption ([macOS](https://github.com/Deatrax/File-Safe-Mac)) | C++, Qt 6 |
 | [ProjectRPS](https://github.com/Deatrax/ProjectRPS) | **Project lead** · Gamified study tracker with a Pomodoro timer and "apology letters" | React, Express, MongoDB |
-| [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | Classical ML vs LLMs for mental-health text classification | Python, scikit-learn |
+| [TherapyLM](https://github.com/Deatrax/TherapyLM-Design-Project) | **Project lead** · Classical ML vs LLMs for mental-health text classification | Python, scikit-learn |
 | [MCServCheck](https://github.com/Deatrax/MCServCheck) ([live](https://mc-serv-check.vercel.app)) | Discord bot and dashboard for Minecraft server status alerts | Node.js, Vercel, MongoDB |
 
 </details>
